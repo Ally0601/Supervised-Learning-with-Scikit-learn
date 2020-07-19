@@ -19,3 +19,7 @@ Binary classification problem on PIMA Indians dataset obtained from the UCI Mach
 <hr>
 <h4>Gapminder Dataset (2)</h4>
 Predict the categorical 'Region' feature based on features such as the country's GDP, fertility rate, life expectancy and population using the Gapminder dataset.
+<br>
+<hr>
+<h4>The Voting dataset (2)</h4>
+A dataset obtained from the UCI Machine Learning Repository consisting of votes made by US House of Representatives Congressmen. The goal is to impute missing data.
