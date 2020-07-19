@@ -1,7 +1,7 @@
 # Supervised-Learning-with-Scikit-learn
 <br>
 <hr>
-<h4>The Voting dataset</h4>
+<h4>The Voting dataset (1)</h4>
 A dataset obtained from the UCI Machine Learning Repository consisting of votes made by US House of Representatives Congressmen. The goal is to predict their party affiliation ('Democrat' or 'Republican') based on how they voted on certain key issues.
 <br>
 <hr>
