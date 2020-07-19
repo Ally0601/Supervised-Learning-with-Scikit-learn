@@ -23,3 +23,7 @@ Predict the categorical 'Region' feature based on features such as the country's
 <hr>
 <h4>The Voting dataset (2)</h4>
 A dataset obtained from the UCI Machine Learning Repository consisting of votes made by US House of Representatives Congressmen. The goal is to impute missing data.
+<br>
+<hr>
+<h4>White Wine Quality dataset</h4>
+A dataset obtained from the UCI Machine Learning Repository consisting of White Wine Quality. The goal is centering and scaling data.
