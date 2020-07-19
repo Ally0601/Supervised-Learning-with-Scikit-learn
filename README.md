@@ -11,3 +11,7 @@ Multi-class classification on the MNIST digits recognition dataset, which has 10
 <hr>
 <h4>Gapminder Dataset</h4>
 Predict the life expectancy in a given country based on features such as the country's GDP, fertility rate, and population using the Gapminder dataset
+<br>
+<hr>
+<h4>PIMA Indians Dataset</h4>
+Binary classification problem on PIMA Indians dataset obtained from the UCI Machine Learning Repository. To predict whether or not a given female patient will contract diabetes based on features such as BMI, age, and number of pregnancies.
