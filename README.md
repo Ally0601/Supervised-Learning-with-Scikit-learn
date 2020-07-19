@@ -18,4 +18,4 @@ Binary classification problem on PIMA Indians dataset obtained from the UCI Mach
 <br>
 <hr>
 <h4>Gapminder Dataset (2)</h4>
-Predict the categorical 'Region' featurey based on features such as the country's GDP, fertility rate, life expectancy and population using the Gapminder dataset.
+Predict the categorical 'Region' feature based on features such as the country's GDP, fertility rate, life expectancy and population using the Gapminder dataset.
