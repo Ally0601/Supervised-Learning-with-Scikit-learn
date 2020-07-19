@@ -9,4 +9,5 @@ A dataset obtained from the UCI Machine Learning Repository consisting of votes 
 Multi-class classification on the MNIST digits recognition dataset, which has 10 classes, the digits 0 through 9.
 <br>
 <hr>
-<h4></h4>
+<h4>Gapminder Dataset</h4>
+Predict the life expectancy in a given country based on features such as the country's GDP, fertility rate, and population using the Gapminder dataset
